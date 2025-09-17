@@ -53,6 +53,7 @@ The database contains the following tables:
    git clone https://github.com/AJ-254/clinic-db.git
 
 2. **Open MySQL and run the schema file:**
+
    sql
    SOURCE clinic_db.sql;
 
