@@ -55,6 +55,7 @@ The database contains the following tables:
 2. **Open MySQL and run the schema file:**
 
    sql
+   
    SOURCE clinic_db.sql;
 
 3. The database will be created as clinic_db.
